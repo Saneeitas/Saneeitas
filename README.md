@@ -7,7 +7,7 @@ I'm a Software Engineer and technology entrepreneur passionate about building sc
 I enjoy designing and building cloud-native applications, automating infrastructure, and integrating security into the software development lifecycle.
 
 - 🚀 **Currently:** Co-Founder & CTO at [YARE](https://yare.northino.com/) and working on technology ventures at Northino.
-- ☁️ **Cloud & Infrastructure:** AWS, Docker, Terraform, Cloud Architecture and Infrastructure Automation.
+- ☁️ **Cloud & Infrastructure:** AWS, Azure Docker, Terraform, Cloud Architecture and Infrastructure Automation.
 - 🔐 **Security:** DevSecOps, Cloud Security, Application Security and Secure Software Development.
 - 💻 **Backend Engineering:** Node.js, NestJS, Express.js, Python, PostgreSQL and MongoDB.
 - 🌱 **Currently exploring:** Cloud Security Engineering, Infrastructure as Code, AI Security and secure cloud-native systems.
